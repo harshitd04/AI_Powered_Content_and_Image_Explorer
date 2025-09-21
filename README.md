@@ -218,22 +218,6 @@ docker-compose down -v
 docker-compose -f docker-compose.prod.yml up -d
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
 ## Acknowledgments
 
 - **FastAPI**: For the excellent Python web framework
